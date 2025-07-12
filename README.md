@@ -51,7 +51,7 @@ Edit
 1. **Download the project** or **Clone it**:
 
 ```bash
-git clone https://github.com/yourusername/punita-collection.git
+git clone https://github.com/Krutarth-02/punita-collection.git
 ```
 Open the homepage:
 
