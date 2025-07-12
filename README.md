@@ -52,6 +52,7 @@ Edit
 
 ```bash
 git clone https://github.com/yourusername/punita-collection.git
+```
 Open the homepage:
 
 Navigate to the project folder.
@@ -85,37 +86,9 @@ Built with media queries for smooth responsiveness.
 📞 Contact
 For any queries or suggestions:
 
-📧 Email: [your-email@example.com]
-📸 Instagram: @punita_collection
+📧 Email: [kkbrothers212@gmail.com]
+📸 Instagram: @kkbrother's
 
-📝 License
-This project is for personal, portfolio, or learning purposes.
-Feel free to customize it and make it your own!
-
-markdown
-Copy
-Edit
-
-Let me know if you also want to add:
-
-- **Dark mode support**
-- **Hover animations**
-- **GitHub Pages live link setup**
-
-Happy coding, Krutarth! 🎨💻
-
-
-
-
-
-
-
-Do you like this personality?
-
-
-
-
-Ask ChatGPT
 
 
 
